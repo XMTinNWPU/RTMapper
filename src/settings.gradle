@@ -1,0 +1,1 @@
+include ':app', ':dji_android_sdk', ':Amap_2DMap_V5.2.0_20170627', ':AMap_Search_V5.5.0_20171107'

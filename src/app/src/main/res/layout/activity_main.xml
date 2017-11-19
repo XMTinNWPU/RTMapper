@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingEnd="60dp"
+    android:paddingStart="60dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+
+    <Button
+        android:id="@+id/complete_ui_widgets"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="14dp"
+        android:text="Go Flight"
+        android:textColor="@color/background_blue"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/bt_customized_ui_widgets"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="14dp"
+        android:text="RTMapper Viewer"
+        android:textColor="@color/background_blue"
+        android:textSize="14sp" />
+
+    <TableRow
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+</TableLayout>

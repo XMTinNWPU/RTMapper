@@ -1,0 +1,5 @@
+src/build
+src/.gradle
+src/.idea
+src/local.properties
+*.iml
